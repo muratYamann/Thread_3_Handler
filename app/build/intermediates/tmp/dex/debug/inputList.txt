@@ -1,0 +1,2 @@
+/Users/murat/Desktop/24-kasim-2016-Android/Thread_3_Handler/app/build/intermediates/classes/debug
+/Users/murat/Desktop/24-kasim-2016-Android/Thread_3_Handler/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-d0d28bd32d4b65144b905d1dbbba082be66153bd.jar
